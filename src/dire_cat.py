@@ -1,0 +1,6 @@
+encontrado = 'Se encontro la siguiente url : '
+cpanel = '/cPanel'
+cpanel_dos = '/cpanel'
+cpanel_tres = '/CPANEL'
+admin_php = '/admin.php'
+whmcs = ':2087'

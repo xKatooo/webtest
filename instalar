@@ -1,0 +1,14 @@
+#!/bin/env bash
+echo 'instalando ...'
+pkg install python
+echo 'instalando python ...'
+pip install requests
+echo 'instalando requests ...'
+pip install colorama
+echo 'instalado colorama ...'
+pip install bs4
+echo 'instalando beautifulsoup ...'
+apt-get install -y nmap
+echo 'Proceso terminado'
+rm -rf instalar
+
