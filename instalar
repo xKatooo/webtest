@@ -1,6 +1,6 @@
 #!/bin/env bash
 echo 'instalando ...'
-pkg install python
+apt-get install -y python
 echo 'instalando python ...'
 pip install requests
 echo 'instalando requests ...'
