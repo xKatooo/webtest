@@ -10,5 +10,8 @@ pip install bs4
 echo 'instalando beautifulsoup ...'
 apt-get install -y nmap
 echo 'Proceso terminado'
+echo ''
+echo 'Si estas en KaliLinux porfavor comanda "apt-get install -y python3" para que no haya ningun error'
+echo ''
 rm -rf instalar
 
